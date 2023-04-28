@@ -7,3 +7,4 @@ Responsive Front-End Mentor Challenge Using Pure HTML + CSS
 - Newbie
 
 # Demo Site
+https://abdelmalik100.github.io/Huddle-landing-page-with-a-single-introductory-section/
